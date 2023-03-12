@@ -1,0 +1,6 @@
+{
+    "prehome":{
+        "component": "Prehome",
+        "composition": "children"
+    }
+}
